@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 27 01:17:59 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-8f44-8aa2-00001eea5060 
+on database directory memory:/Volumes/workplace/training-backend/bb588927-9f7c-49bd-bb89-95272ee58104 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6a6824be 
+Loaded from file:/Users/vanshgpt/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.18+10-LTS
+user.dir=/Volumes/workplace/training-backend
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.6.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
